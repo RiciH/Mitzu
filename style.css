@@ -1,0 +1,24 @@
+#canvas {
+      border: 10px solid;
+      position: absolute;
+      top: 20%;
+      left: 25%;
+}
+
+#life-icon-left {
+    height: 50px;
+}
+
+
+#life-icon-middle {
+    height: 50px;
+}
+
+#life-icon-right {
+    height: 50px;
+}
+
+#lives {
+    margin-left: 66%;
+    margin-top: 7%;
+}
